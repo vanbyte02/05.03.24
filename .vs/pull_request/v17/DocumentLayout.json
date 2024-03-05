@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u0418\u0432\u0430\u043D \u041B\u0438\u0443\u0444\u0430\\Desktop\\pull_request\\pull_request\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{76D46767-8173-402B-B72D-A21B0D3B5AAA}|pull_request\\pull_request.vcxproj|C:\\Users\\\u0418\u0432\u0430\u043D \u041B\u0438\u0443\u0444\u0430\\Desktop\\pull_request\\pull_request\\pull_request\\pull_request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{76D46767-8173-402B-B72D-A21B0D3B5AAA}|pull_request\\pull_request.vcxproj|solutionrelative:pull_request\\pull_request.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "pull_request.cpp",
+              "DocumentMoniker": "C:\\Users\\\u0418\u0432\u0430\u043D \u041B\u0438\u0443\u0444\u0430\\Desktop\\pull_request\\pull_request\\pull_request\\pull_request.cpp",
+              "RelativeDocumentMoniker": "pull_request\\pull_request.cpp",
+              "ToolTip": "C:\\Users\\\u0418\u0432\u0430\u043D \u041B\u0438\u0443\u0444\u0430\\Desktop\\pull_request\\pull_request\\pull_request\\pull_request.cpp",
+              "RelativeToolTip": "pull_request\\pull_request.cpp",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAAAAAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-05T10:36:23.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
