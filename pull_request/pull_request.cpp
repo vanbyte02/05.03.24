@@ -49,49 +49,8 @@ int main()
     char c_5 = '^';
     cout << "c_5 = " << c_5 << " | тип: char, размер: 1 б.\n" << endl;
 
-    bool b_1 = 1;
-    cout << "b_1 = " << b_1 << " | тип: bool, размер: 1 б." << endl;
-    bool b_2 = 0;
-    cout << "b_2 = " << b_2 << " | тип: bool, размер: 1 б." << endl;
-    bool b_3 = 1;
-    cout << "b_3 = " << b_3 << " | тип: bool, размер: 1 б." << endl;
-    bool b_4 = 0;
-    cout << "b_4 = " << b_4 << " | тип: bool, размер: 1 б." << endl;
-    bool b_5 = 1;
-    cout << "b_5 = " << b_5 << " | тип: bool, размер: 1 б.\n" << endl;
-
-    string st_1 = "Это";
-    cout << "st_1 = " << st_1 << " | тип: string, размер: 3 б." << endl;
-    string st_2 = "Первая";
-    cout << "st_2 = " << st_2 << " | тип: string, размер: 6 б." << endl;
-    string st_3 = "Работа";
-    cout << "st_3 = " << st_3 << " | тип: string, размер: 6 б." << endl;
-    string st_4 = "по";
-    cout << "st_4 = " << st_4 << " | тип: string, размер: 2 б." << endl;
-    string st_5 = "С++";
-    cout << "st_5 = " << st_5 << " | тип: string, размер: 3 б.\n" << endl;
-
-    float f_1 = 3.2;
-    cout << "f_1 = " << f_1 << " | тип: float, размер: 4 б." << endl;
-    float f_2 = 3.3;
-    cout << "f_1 = " << f_1 << " | тип: float, размер: 4 б." << endl;
-    float f_3 = 3.4;
-    cout << "f_1 = " << f_1 << " | тип: float, размер: 4 б." << endl;
-    float f_4 = 3.5;
-    cout << "f_1 = " << f_1 << " | тип: float, размер: 4 б." << endl;
-    float f_5 = 3.6;
-    cout << "f_1 = " << f_1 << " | тип: float, размер: 4 б.\n" << endl;
-
-    double d_1 = 1.2;
-    cout << "d_1 = " << d_1 << " | тип: double, размер: 8 б." << endl;
-    double d_2 = 1.3;
-    cout << "d_1 = " << d_1 << " | тип: double, размер: 8 б." << endl;
-    double d_3 = 1.4;
-    cout << "d_1 = " << d_1 << " | тип: double, размер: 8 б." << endl;
-    double d_4 = 1.5;
-    cout << "d_1 = " << d_1 << " | тип: double, размер: 8 б." << endl;
-    double d_5 = 1.6;
-    cout << "d_1 = " << d_1 << " | тип: double, размер: 8 б.\n" << endl;
+    
 
 
     int _; cin >> _;
+}
